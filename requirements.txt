@@ -1,2 +1,4 @@
-websocket
-apache-airflow
+websocket-client = '1.8.0'
+apache-airflow = ''
+python-dotenv = '1.0.1'
+pandas = '2.2.3'
